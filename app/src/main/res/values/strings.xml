@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth Comm</string>
+    <string name="selectDevice_title_textView_text">Paired Devices</string>
+    <string name="selectDevice_updateDeviceListButton_text">Update Devices</string>
+    <string name="selectDevice_startServerButton_text">Start Server</string>
+    <string name="simpleChat_editText_hint">Type a message</string>
+    <string name="simpleChat_sendMessageButton_text">Send</string>
+    <string name="simpleChat_connectButton_text">Connect</string>
+    <string name="simpleChat_disconnectButton_text">Disconnect</string>
+
+</resources>
